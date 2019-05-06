@@ -1,3 +1,6 @@
+![University of Lincoln](http://thelincolnite.co.uk/wp-content/uploads/2012/07/new_uni_crest.jpg "University of Lincoln")
+
+----------
 # Week 2: First steps with ROS Programming
   * [Preparation](#preparation)
      * [Your Real Robot (handling and programming)](#your-real-robot-handling-and-programming)
